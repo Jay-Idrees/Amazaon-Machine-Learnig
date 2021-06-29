@@ -1,8 +1,17 @@
-## Amazon Machine Learning
+# Amazon Machine Learning
 
 
-- **Artificial Intelligence**- Abilities of the computer to perform activities with human like intelligence
+- **Artificial Intelligence**- Software developement to perform activities with human like intelligence by using examples from real-world data
 - **Machine learnig** is a type of artificial intelligence
-    - `Supervised learning` - The training sample has lables, the algoritm learns to predict lables and outcomes
+    - `Supervised learning` - The training sample has lables, the algoritm learns to predict lables and outcomes- examples: predicting housing prices, identifying objects in image
     - `Unsupervised learning` - No lables, but the algorithm tries to identify ptterns in data
-    - `Re-inforcment leraning` - The algorithm is programed takes actions to maximize a reward
+
+- In supervised and unsupervised learning, models inspect data to discover patterns
+
+    - `Re-inforcment leraning` - The algorithm is programed takes actions to maximize a reward - Learns through conseques to actions e-g like traning pets- you give rewards for correct outcome
+
+# Components of machine learning
+
+- **Machine learning Model** - Starting modle code
+- **Model training algorithm** - Inspect the data and compares results against the final product, makes changes to the model to reach closer to the product, then repeat untill the final product is achieved
+- **Model inference algorithm** - No you apply the trained model on a new dataset - Now this trained model is used to make predictions 
