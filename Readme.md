@@ -10,8 +10,16 @@
 
     - `Re-inforcment leraning` - The algorithm is programed takes actions to maximize a reward - Learns through conseques to actions e-g like traning pets- you give rewards for correct outcome
 
-# Components of machine learning
+## Components of machine learning
 
-- **Machine learning Model** - Starting modle code
-- **Model training algorithm** - Inspect the data and compares results against the final product, makes changes to the model to reach closer to the product, then repeat untill the final product is achieved
-- **Model inference algorithm** - No you apply the trained model on a new dataset - Now this trained model is used to make predictions 
+- **Machine learning Model** - Starting/generic model code e-g linear regression- It is the raw form of the model before training
+- **Model training algorithm** - Inspect the data and compares results against the final product, makes changes to the model to reach closer to the product, then repeat untill the final product is achieved. In other words it is an iterative process fitting a model to specific data
+- **Model inference algorithm** - No you apply the trained model on a new dataset - Now this trained model is used to make predictions. In other words you use a trained model to solve a task
+
+- Below are the `five` steps of machine learning
+
+- **Define the problem**
+- **Build Dataset**
+- **Train Model**
+- **Evaluate Model**
+- **Use Model**
