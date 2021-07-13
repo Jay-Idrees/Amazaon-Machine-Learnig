@@ -25,7 +25,7 @@
     - Whether you will use a categorical outcome (binary such as mortality) or a continues/regression outcome (numerical/such as cost) for supervised learning or clustering in unsupervised learning
     - The unsupervised learning includes clustering and deep learning
 
-- **Build Dataset** *
+- **Build Dataset**
 - **Train Model**
 - **Evaluate Model**
 - **Use Model/Inference**
