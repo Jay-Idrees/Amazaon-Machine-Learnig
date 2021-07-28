@@ -6,7 +6,7 @@
     - `Supervised learning` - The training sample has lables, the algoritm learns to predict lablesthe labels are the outcome variables. examples: predicting housing prices, identifying objects in image. For instance you can use a training model where you train the ML model with a given set of flowers and their corresponding names. Then once the model is trained the 
     - `Unsupervised learning` - No lables, but the algorithm tries to identify ptterns in data
 
-    - Labeled data is is the data already contains the solutions- thats when you use a supervised model. The outcome is already defined
+    - Labeled data is is the data that already contains the solutions- thats when you use a supervised model. The outcome is already defined
 
 - In supervised and unsupervised learning, models inspect data to discover patterns
 
