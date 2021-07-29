@@ -8,7 +8,7 @@
 
     - Labeled data is is the data that already contains the solutions- thats when you use a supervised model. The outcome is already defined
 
-- In supervised and unsupervised learning, models inspect data to discover patterns
+- In Supervised and unsupervised learning, models inspect data to discover patterns
 
     - `Re-inforcment leraning` - The algorithm is programed and then takes actions to maximize a reward - Learns through conseques to actions e-g like traning pets- you give rewards for correct outcome
 
