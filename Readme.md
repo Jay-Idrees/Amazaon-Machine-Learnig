@@ -10,7 +10,7 @@
 
 - In Supervised and Unsupervised learning, models inspect data to discover patterns
 
-    - `Re-inforcment leraning` - The algorithm is programed and then takes actions to maximize a reward - Learns through conseques to actions e-g like traning pets- you give reward for correct outcome
+    - `Re-inforcment leraning` - The algorithm is programed and then takes actions to maximize a reward - Learns through the conseques to actions e-g like traning pets- you give reward for correct outcome
 
 ## Components of Machine Learning
 
