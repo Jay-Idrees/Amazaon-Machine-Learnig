@@ -20,7 +20,7 @@
 
 - Below are the `five` steps of machine learning. All these steps are iterative at each stage.
 
-- **Define the problem** 
+- **Define the Problem** 
     - This is when you make the decision about whether you are going to use supervised learning or unsupervised learning,
     - Whether you will use a categorical outcome (binary such as mortality) or a continues/regression outcome (numerical/such as cost) for supervised learning or clustering in unsupervised learning
     - The unsupervised learning includes clustering and deep learning
